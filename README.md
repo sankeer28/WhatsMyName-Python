@@ -10,7 +10,7 @@ The script is unofficial and is not part of project WhatsMyname.
 # Installation ⚙️
 
 ```
-git clone https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python
+https://github.com/sankeer28/WhatsMyName-Python.git
 ```
 
 ```
