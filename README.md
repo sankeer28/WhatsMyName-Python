@@ -32,7 +32,10 @@ pip install -r requirements.txt
 ```
 python3 whatsmyname.py username 
 ```
-<br>
+# This is a stripped-down version from the Main branch
+- removed progress bar, website links are now shown immediately when found instead of a summary at the end
+- removed options -f. -c. -h, the user now only needs to provide username
+- removed .HTML Report Generation
 
 
 
